@@ -6,11 +6,11 @@ Dit app is een interactief hulpmiddel dat sporters helpt hun houding te verbeter
 
 <img src="/public/assets/images/ReadMefoto/foto1.png" height="300"/>
 
-<img src="/public/assets/images/ReadMefoto/foto2.png" height="300"/>
+<img src="/public/assets/images/foto2.png" height="300"/>
 
-<img src="/public/assets/images/ReadMefoto/foto3.png" height="300"/>
+<img src="/public/assets/images/foto3.png" height="300"/>
 
-<img src="/public/assets/images/ReadMefoto/foto4.png" height="300"/>
+<img src="/public/assets/images/foto4.png" height="300"/>
 
 
 
